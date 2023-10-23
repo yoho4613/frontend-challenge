@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "cd ./circle-frontend-challenge-main && npm install && npm run start"
+    "build": "cd ./circle-frontend-challenge-main && npm install && npm run build"
   },
   "repository": {
     "type": "git",
